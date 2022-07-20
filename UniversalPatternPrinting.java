@@ -7,7 +7,7 @@ public class UniversalPatternPrinting {
         Scanner s = new Scanner(System.in);
 
         // integer "n" is the variable that specifies the size of the matrix
-        int n = s.nextInt(); //Consider n=5 for optimal size
+        int n = s.nextInt(); //Consider n=5 for optimal size.
 
 
         //For every letter to be printed it is assumed to be in the form of matrix and used two for loops which prints the stars in a manner called rows and columns//
